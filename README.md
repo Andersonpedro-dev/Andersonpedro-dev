@@ -1,6 +1,6 @@
 ### Olá, Eu sou Anderson Pedro fico feliz em ter ver por aqui!👋
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersonpedro-dev&show_icons=true&theme=drácula)]
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersonpedro-dev&show_icons=true&theme=dracula)]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonn_pedro/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-pedro-71507b1a2/)
